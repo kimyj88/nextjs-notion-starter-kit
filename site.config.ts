@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'https://nextjs-notion-starter-kit-seven-inky.vercel.app',
+  domain: 'nextjs-notion-starter-kit-seven-inky.vercel.app',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
